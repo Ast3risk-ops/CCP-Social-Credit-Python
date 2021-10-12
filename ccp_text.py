@@ -13,6 +13,10 @@ if name == "John Xina":
     print("You cannot take this test!")
     sleep(1)
     print("You downloaded illegal social credit points!")
+    sleep(3)
     e("ERR_ILLEGAL_IMMIGRANT")
-system("color")
 
+
+
+
+system("color")
