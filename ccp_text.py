@@ -1,2 +1,3 @@
 from time import sleep
-print("hi")
+print("Welcome to the CCP Social credit test!")
+sleep(2)
