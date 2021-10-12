@@ -15,8 +15,12 @@ if name == "John Xina":
     print("You downloaded illegal social credit points!")
     sleep(3)
     e("ERR_ILLEGAL_IMMIGRANT")
-
-
+q1= input("Who is leader of China?")
+if q1 == "Xi Jinping":
+    print("You have immigrated!")
+else:
+    e("ERR_TEST_FAILED")
+print("You did it!")
 
 
 system("color")
