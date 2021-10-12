@@ -21,6 +21,4 @@ if q1 == "Xi Jinping":
 else:
     e("ERR_TEST_FAILED")
 print("You did it!")
-
-
 system("color")
