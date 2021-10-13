@@ -1,7 +1,7 @@
 # CCP-Social-Credit-Python
 Sum CCp Social credit test in python.
 needs guizero to work
-### How to install
+### How to install guizero
 ##### Windows
 Open PowerShell and type:
 ```bash
