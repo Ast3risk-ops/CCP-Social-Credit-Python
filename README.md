@@ -23,3 +23,4 @@ Open a terminal and type:
 ```bash
 pip3 install guizero
 ```
+[I also made this](https://create.kahoot.it/details/33b7603c-ff04-483e-8351-b084ddd93aef)
